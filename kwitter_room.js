@@ -1,12 +1,12 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyCydHsiIj9THEvsEeaJ6d1XmzgtkgUvIdI",
-  authDomain: "kwitter-72e6d.firebaseapp.com",
-  databaseURL: "https://kwitter-72e6d-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "kwitter-72e6d",
-  storageBucket: "kwitter-72e6d.appspot.com",
-  messagingSenderId: "37474281507",
-  appId: "1:37474281507:web:801ecf18006e4006366996",
-  measurementId: "G-5HN1LTNTK5"
+  apiKey: "AIzaSyBJQUK9h_HacqbDI4RIWmbV4q_pdnMjh_o",
+  authDomain: "kwitter2-46e5f.firebaseapp.com",
+  databaseURL: "https://kwitter2-46e5f-default-rtdb.firebaseio.com",
+  projectId: "kwitter2-46e5f",
+  storageBucket: "kwitter2-46e5f.appspot.com",
+  messagingSenderId: "722447698421",
+  appId: "1:722447698421:web:e7dd58ff68b149e39e38bc",
+  measurementId: "G-8T6GL4V4QB
 };
 
 // Initialize Firebase
